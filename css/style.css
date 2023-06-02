@@ -1,0 +1,26 @@
+body {  
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color:-webkit-linear-gradient(left, #000000, #464646);
+background: -moz-linear-gradient(left, #000000, #464646);
+background: -ms-linear-gradient(left, #000000, #464646);
+background: -o-linear-gradient(left, #000000, #464646);
+background: linear-gradient(to right, #000000, #464646);;
+  }
+  h1 {
+    color: rgb(215, 215, 215);
+  }
+  p {
+    color: rgb(255, 255, 255);
+  }
+  h2 {
+    color: rgb(255, 255, 255);
+  }
+  img {
+    width: 300px;
+    height: 300px;
+  }
+  .logo{
+    width: 400px;
+    height: 300px;
+  }
